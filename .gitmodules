@@ -1,6 +1,6 @@
-[submodule "TestDemain-backend"]
-	path = TestDemain-backend
-	url = https://github.com/MGsus/TestDemain-backend
-[submodule "TestDemain-frontend"]
-	path = TestDemain-frontend
+[submodule "frontend"]
+	path = frontend
 	url = https://github.com/MGsus/TestDemain-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MGsus/TestDemain-backend
