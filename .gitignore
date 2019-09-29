@@ -1,3 +1,9 @@
+# VSCode
+.vscode/
+
+# WebStorm
+*.idea/
+
 # Logs
 logs
 *.log

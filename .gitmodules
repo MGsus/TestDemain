@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MGsus/TestDemain-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MGsus/TestDemain-backend.git
